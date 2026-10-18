@@ -24,6 +24,8 @@ Models can be accessed via the links below:
 
 BERT-tiny was trained during development but is **not released** because it converged to constant neutral predictions. The constant-neutral baseline remains in the evaluation tables for context.
 
+## Training dataset 
+Training dataset is available via this link: [`susurofu/synthetic-sentiment-dataset-pg-gemma4`](https://huggingface.co/datasets/susurofu/synthetic-sentiment-dataset-pg-gemma4)
 
 
 
